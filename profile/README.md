@@ -13,7 +13,7 @@ Repositories types:
 - `motion_` - motion sybsystem repos
 - `brain_` - brain sybsystem repos
 - `lib_` - libraries used by other repositories
-- `new_` - repositories in early development
+- `new_` - repositories in early development (will be renamed when ready)
 
 Special repositories:
 
