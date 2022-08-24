@@ -7,6 +7,13 @@
 
 Status - Phase 1: https://github.com/orgs/Zakhar-the-Robot/projects/6
 
+[Project](https://github.com/orgs/Zakhar-the-Robot/projects?type=new) types:
+
+- `⚔️` - epic, large strategic step
+- `📦` - multi-repository feature implementation
+- `🐞` - bugs
+- `__` - other projects
+
 Repositories types:
 
 - `io_` - IO subsystem repos
