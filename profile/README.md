@@ -5,7 +5,8 @@
 
 ## 🏗️ Development
 
-Status - Phase 1: https://github.com/orgs/Zakhar-the-Robot/projects/6
+**Current Status** - Phase 1: https://github.com/orgs/Zakhar-the-Robot/projects/6
+
 
 [Project](https://github.com/orgs/Zakhar-the-Robot/projects?type=new) types:
 
