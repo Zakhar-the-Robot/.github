@@ -2,6 +2,8 @@
 
 - ✨The main page ✨: https://zakhar-the-robot.github.io/doc
 
+Based on [Alive OS](https://github.com/Alive-OS)
+
 
 ## 🏗️ Development
 
